@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "React.native",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Rest API",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Tailwind css",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills/material-ui-logo.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

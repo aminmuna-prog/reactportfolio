@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Quizapp",
+    "imageSrc": "projects/quiz.png",
+    "description": "quiz app can take quiz, count number of right answer and wrong answer. Show complete answer",
+    "skills": ["React.js", "CSS"],
+    "demo": "https://reactjs-quiz-app-teal.vercel.app/",
+    "source": "https://github.com/aminmuna-prog/reactjsQuizApp"
+  },
+  {
+    "title": "Reactjstodo",
+    "imageSrc": "projects/todo.png",
+    "description": "we can add, edit, delete, search our regular todo. we can also set out priority and add favourite.",
+    "skills": ["React.js", "tailwind css"],
+    "demo": "https://reactjstodo-tan.vercel.app/",
+    "source": "https://github.com/aminmuna-prog/reactjstodo"
+  },
+  {
+    "title": "Weatheapp",
+    "imageSrc": "projects/weather.jpg",
+    "description": "This is a project made to search weather of different city of the world.",
+    "skills": ["React native", "CSS", "API"],
+    "demo": "https://www.youtube.com/shorts/vlLwP_W6pdI",
+    "source": "https://github.com/aminmuna-prog/weatherapp"
+  },
+  {
+    "title": "NewsApp",
+    "imageSrc": "projects/news.jpg",
+    "description": "build to read the latest news of usa. we can filter news by category and also search different news.",
+    "skills": ["React native", "tailwind", "API"],
+    "demo": "https://www.youtube.com/watch?v=umNx5QrtpGg",
+    "source": "https://github.com/aminmuna-prog/newsapp"
+  },
+
+  {
+    "title": "todoapp",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made to note down our daily todo. we can also check the button when todo completed.",
+    "skills": ["React native", "CSS", "asycn.storage"],
+    "demo": "https://www.youtube.com/shorts/1Kw9KkvJCGA",
+    "source": "https://github.com/aminmuna-prog/nativeTodo"
+  }
+]
