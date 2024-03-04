@@ -18,7 +18,7 @@
   {
     "title": "Weatheapp",
     "imageSrc": "projects/weather.jpg",
-    "description": "This is a project made to search weather of different city of the world.",
+    "description": "made to search weather of different city of the world. Used Fetch API to fetch data",
     "skills": ["React native", "CSS", "API"],
     "demo": "https://www.youtube.com/shorts/vlLwP_W6pdI",
     "source": "https://github.com/aminmuna-prog/weatherapp"
@@ -26,7 +26,7 @@
   {
     "title": "NewsApp",
     "imageSrc": "projects/news.jpg",
-    "description": "build to read the latest news of usa. we can filter news by category and also search different news.",
+    "description": "Used fetch Apis to call news API. Built to read the latest news of USA. filter news by category and also search different news.",
     "skills": ["React native", "tailwind", "API"],
     "demo": "https://www.youtube.com/watch?v=umNx5QrtpGg",
     "source": "https://github.com/aminmuna-prog/newsapp"
@@ -35,7 +35,7 @@
   {
     "title": "todoapp",
     "imageSrc": "projects/todo.png",
-    "description": "This is a project made to note down our daily todo. we can also check the button when todo completed.",
+    "description": "Used AsyncStorage database to save data. Built to note down daily todo. check the button when todo complete.",
     "skills": ["React native", "CSS", "asycn.storage"],
     "demo": "https://www.youtube.com/shorts/1Kw9KkvJCGA",
     "source": "https://github.com/aminmuna-prog/nativeTodo"
