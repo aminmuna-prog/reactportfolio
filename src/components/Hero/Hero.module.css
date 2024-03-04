@@ -17,6 +17,7 @@
   align-items: flex-start;
   color: var(--color-text);
   z-index: 1;
+  width: 50%;
 }
 
 .title {
@@ -49,11 +50,13 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
-
-.heroImg {
+/* .imgpart {
   width: 50%;
+} */
+.heroImg {
+  width: 30%;
   z-index: 1;
-
+  border-radius: 50%;
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -109,6 +112,7 @@
   }
   .content {
     align-items: start;
+    width: 100%;
   }
   .description {
     font-size: 30px;
@@ -117,5 +121,9 @@
   .contactBtn {
     font-size: 20px;
     padding: 10px 15px;
+  }
+  .heroImg {
+    width: 50%;
+    margin-bottom: 40px;
   }
 }

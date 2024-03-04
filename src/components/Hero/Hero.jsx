@@ -1,4 +1,3 @@
-import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
 
@@ -16,11 +15,13 @@ const Hero = () => {
             Contact Me
           </a>
         </div>
+        {/* <div className={styles.imgpart}> */}
         <img
-          src={getImageUrl("hero/heroImage.png")}
+          src={getImageUrl("hero/programmer2.jpg")}
           alt="Hero image of me"
           className={styles.heroImg}
         />
+
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
       </section>
